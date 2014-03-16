@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/ddg"]
+	path = wp-content/themes/ddg
+	url = https://github.com/Gert-Jan/_s.git
